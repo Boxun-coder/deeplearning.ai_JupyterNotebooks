@@ -3,7 +3,7 @@
 > <b style="color:tomato;font-size:40px;">第五章的代码作业可能不会做了，希望fork的同学们能够pull一下。</b>
 
 该仓库主要存放Coursera上DeepLearning.ai课程的Jupyter Notebook的练习题。
-放在gituhb上希望能和大家一起学习~
+放在github上希望能和大家一起学习~
 
 
 ## 1.DeepLearning课程笔记传送门:
